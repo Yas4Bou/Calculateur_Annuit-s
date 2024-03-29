@@ -1,0 +1,25 @@
+body{
+    margin: 5%;
+    background: linear-gradient(#A3C854, white);
+}
+
+table{
+    border-collapse: collapse;
+  }
+  
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+  }
+
+header {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+button {
+    margin-top: 20px;
+}
+#resultat {
+    margin-top: 20px;
+}
